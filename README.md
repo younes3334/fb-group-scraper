@@ -5,7 +5,7 @@ Thanks for reading this guide for the code !
 **First**: if you do not have the necceray libraries for the work, you will need to install the requirements by running the following in your terminal:  
 --> pip install -r requirements.txt
 
-**Secondly** : 
+**Secondly** :  
 --> You need to input the **group link** to scrape.
 --> Then, you need to enter how many posts you want to scrap from tha group.
 
