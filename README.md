@@ -3,7 +3,7 @@ Hello !
 Thanks for reading this guide for the code !
 
 **First**: if you do not have the necceray libraries for the work, you will need to install the requirements by running the following in your terminal:  
-\t => pip install -r requirements.txt
+> => pip install -r requirements.txt
 
 **Secondly** :  
 > => You need to input the **group link** to scrape.  
@@ -11,8 +11,8 @@ Thanks for reading this guide for the code !
 
 **Finally**:  
 Run the script and let the code do the work !!!  
-   >  => it automatically open the browser and scrap the posts from the group .  
-   >  => after it finish, it will save the **collected data** in an Excel file with the name of the group.  
+   >  **it automatically open the browser and scrap the posts from the group .**
+   >  **after it finish, it will save the **collected data** in an Excel file with the name of the group.** 
 
 **Note**:  
    >  - You can remove the " # " in the line 112 so it will be headless (that means the code will run and do the work whithout opening the browser).  
