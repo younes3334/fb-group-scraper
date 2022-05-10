@@ -11,7 +11,7 @@ Thanks for reading this guide for the code !
 
 **Finally**:  
 Run the script and let the code do the work !!!  
-   >  **it automatically open the browser and scrap the posts from the group .**
+   >  **it automatically open the browser and scrap the posts from the group .**   
    >  **after it finish, it will save the **collected data** in an Excel file with the name of the group.** 
 
 **Note**:  
